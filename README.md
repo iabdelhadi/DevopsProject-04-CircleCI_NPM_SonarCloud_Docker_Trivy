@@ -1,24 +1,6 @@
 # Simple_NodeJS_App
 A Simple Node.js Application Deployment Example
 
-## Video Link
-Watch the comprehensive tutorial on YouTube: [CI/CD Pipeline with Jenkins, Docker, and AWS ECS](https://www.youtube.com/watch?v=uGWF3meicAk&t=1827s)
-
----
-
-## Video Summary
-**Comprehensive Guide to CI/CD Pipeline with Jenkins, Docker, and AWS ECS**
-
-This tutorial provides a detailed walkthrough of building a CI/CD pipeline using Jenkins, Docker, and AWS ECS, aimed at improving software development efficiency and security.
-
-### **Main Insights**
-1. **Setting Up Jenkins**: Automated code builds from GitHub repositories.
-2. **SonarQube Integration**: Vulnerability checks to ensure secure applications.
-3. **Docker for Image Creation**: Building and managing Docker images.
-4. **AWS ECS Deployment**: Using AWS Fargate for simplified infrastructure management.
-5. **Resource Management**: Cleaning up resources to prevent unnecessary costs.
-
----
 
 ## Overview of the CI/CD Pipeline
 The video demonstrates the creation of an end-to-end Continuous Integration and Continuous Deployment (CI/CD) pipeline with the following steps:
